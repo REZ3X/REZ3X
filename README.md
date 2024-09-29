@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬 Ask me about React, Front-End, and Web Development<br>⚡ Fun fact I'm single :D
+💬 Ask me about React, Front-End, and Web Development<br>⚡ Fun fact I'm single :D<br> 🌎Come visit my website! <a target="_blank" href="https://rezex.my.id">Click Here!<a/><br> 
 
 
 ## 🌐 Socials:
