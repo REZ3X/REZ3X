@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm REZ3X</h1>
 <h3 align="center">React Front-End Developer, Novel Author, Fudanshi, and F1 Enthusiast</h3>
 
-- 📝 I regularly write articles on [https://blogezex.wordpress.com](https://blogezex.wordpress.com)
+- 📝 I regularly write articles on [https://blogrezex.wordpress.com](https://blogezex.wordpress.com)
 
 - 📫 How to reach me **contact@rezex.my.id**
 
