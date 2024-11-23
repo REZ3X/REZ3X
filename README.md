@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Web Developer | Database Engineer | <br>Amateur Game Developer | F1 & WEC Enthusiast | <br>Lazy Novel Author | Amateur Collector |<br><br>Check my Personal Website at rezex.my.id<br>My links too! At links.xian.my.id<br>
+Full Stack Web Developer | Database Engineer | <br>Amateur Game Developer | F1 & WEC Enthusiast | <br>Lazy Novel Author | Amateur Collector |<br><br>Check my Personal Website at <a href="https://rezex.my.id" target="_blank">rezex.my.id</a><br>My links too! At <a href="https://links.xian.my.id">links.xian.my.id</a><br>
 
 
 ## 🌐 Socials:
