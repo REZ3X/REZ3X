@@ -7,9 +7,4 @@ Just a regular programmer, visit my website at [rejaka.id](https://rejaka.id)
 # Languages Pie:
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=REZ3X&layout=pie&hide_title=true&langs_count=4&hide_values=true&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=REZ3X&layout=pie&hide_title=true&langs_count=4&hide_values=true&theme=transparent)
 
-# Check Some of My Works:
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=REZ3X&repo=REZ3X/wa-bot-rust&show_owner=true&description_lines_count=2&theme=transparent)](https://github.com/REZ3X/wa-bot-rust)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=REZ3X&repo=REZ3X/rejaka_web&show_owner=true&description_lines_count=2&theme=transparent)](https://github.com/REZ3X/rejaka_web)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=REZ3X&repo=REZ3X/rejaka_f1&show_owner=true&description_lines_count=2&theme=transparent)](https://github.com/REZ3X/rejaka_f1)
-
 ---
